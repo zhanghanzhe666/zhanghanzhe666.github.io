@@ -110,5 +110,7 @@ friends: [
     },{
         title: "microsoft",
         href: "https://www.microsoft.com/zh-cn/"
-    }
+    },{
+        title: "个人代码帮助站（提供代码示例）"
+        href: "https://zhanghanzhe666.github.io/codehelp/"
 ]
