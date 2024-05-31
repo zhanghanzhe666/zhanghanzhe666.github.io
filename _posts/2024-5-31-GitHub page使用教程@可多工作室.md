@@ -60,21 +60,15 @@ QQ邮箱注册十分简单，你有qq就有一个qq邮箱
 接着等待1~5分钟，如果右侧侧边栏出现`Deployments`的选项，就代表部署成功，你可以在浏览器中输入你的仓库名称就可以访问你的网站了，你也可以在Deployments中找到你的网站网址。
 ![这是图片](/img/Deployments.png "Magic Gardens") 
 ## 扩展
-******************
-如果你要更新你的网站，你可以直接在GitHub更新，进入仓库主页，点击要更新的文件名，见下图     
-![这是图片](/img/upfile4.png "Magic Gardens") 
-********************
-然后会跳转到文件的代码预览，点击`🖊`进入编辑器模式（紫色方框），见下图。    
-![这是图片](/img/upfile.png "Magic Gardens") 
-***************
-进入之后开始编辑文件，完成后点击绿色按钮`Commit changes...`（红色方框），见下图。
-![这是图片](/img/upfile2.png "Magic Gardens") 
-********************
-最后在弹出的窗口中点击绿色按钮`Commit changes`提交更改。见下图
-![这是图片](/img/upfile3.png "Magic Gardens")
-********************
-GitHub会自动重新部署，你的代码会很快更新。
-***********************
+如果你要更新你的网站，你可以直接在GitHub更新，进入仓库主页，点击要更新的文件名，见下图         
+![这是图片](/img/upfile4.png "Magic Gardens")     
+然后会跳转到文件的代码预览，点击`🖊`进入编辑器模式（紫色方框），见下图。        
+![这是图片](/img/upfile.png "Magic Gardens")      
+进入之后开始编辑文件，完成后点击绿色按钮`Commit changes...`（红色方框），见下图。     
+![这是图片](/img/upfile2.png "Magic Gardens")      
+最后在弹出的窗口中点击绿色按钮`Commit changes`提交更改。见下图     
+![这是图片](/img/upfile3.png "Magic Gardens")       
+GitHub会自动重新部署，你的代码会很快更新。    
 # 结尾
 整体的教程就是这样，我做了两天，也不知道你看没看懂...... 
 # 工作室官网示例代码 
